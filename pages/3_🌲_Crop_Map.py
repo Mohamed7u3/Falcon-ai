@@ -45,5 +45,5 @@ st.title("Crop type classification with satellite imagery")
 #Map.to_streamlit()
 
 
-st.components.v1.html(open('data\last.html').read(), width=800, height=600)
+st.components.v1.html(open('data/last.html').read(), width=800, height=600)
 
